@@ -9,9 +9,9 @@ cd gnu_compiler
 
 ./start.sh 
 
-#compile gnu compiler that you want 
+#compile gnu compiler that you want (add vesion behind ./compile_gnc.sh )(default 10.1 if you don't input any number)
 
-./compile_gnc.sh 
+./compile_gnc.sh 9.1
 
 #After waiting  2 hours, all thing should success
 
