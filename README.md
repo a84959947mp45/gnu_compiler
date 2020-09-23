@@ -1,7 +1,7 @@
 # follow below step, you will compile success easily
 
 
-git https://github.com/a84959947mp45/gnu_compiler 
+git https://github.com/a84959947mp45/gnu_compiler.git 
 
 cd gnu_compiler
 
